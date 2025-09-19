@@ -4,3 +4,9 @@
     gap:30px;
 
 }
+
+.visited-flags{
+    display:flex;
+    gap:15px;
+    margin-block: 50px;
+}
